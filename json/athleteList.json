@@ -1,0 +1,33 @@
+[
+  {
+    "id" : 1,
+    "name" : "Abhishek",
+    "level" : "Basic",
+    "image" : "img/1.png"
+  },
+  {
+    "id" : 2,
+    "name" : "Raja",
+    "level" : "Basic",
+    "image" : "img/2.png"
+  },
+  {
+    "id" : 3,
+    "name" : "Mohan",
+    "level" : "Intermediate",
+    "image" : "img/3.png"
+  },
+  {
+    "id" : 4,
+    "name" : "Tarun",
+    "level" : "Intermediate",
+    "image" : "img/4.png"
+  },
+  {
+    "id" : 5,
+    "name" : "Mohan",
+    "level" : "Advanced",
+    "image" : "img/5.png"
+  }
+
+]
